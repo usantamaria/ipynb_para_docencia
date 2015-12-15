@@ -5,6 +5,7 @@ Conjunto de Jupyter Notebooks en python 3 para libre utilización.
 [Utilizacion](https://github.com/usantamaria/ipynb_para_docencia/wiki/Utilizacion)
 
 Notebooks Disponibles:
+
 1. [Python básico 1: lenguaje y sintaxis.]() SF,AR.
 2. [Python basico 2: algoritmos](). SF,AR.
 3. [Python basico 3: strings]() CC
