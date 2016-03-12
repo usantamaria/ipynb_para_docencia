@@ -28,4 +28,4 @@ En caso de encontrar errores, dependiendo de su grado de conocimiento:
 1. [Librerias de python: pycuda](10_libreria_pycuda/pycuda.ipynb)
 1. [Ejemplos: calculo vectorial](11_ejemplos_calculo_vectorial/calculo_vectorial.ipynb)
 1. [Ejemplos: gráficos paramétricos](12_ejemplos_graficos_parametricos/graficos_parametricos.ipynb)
-1. [Otros lenguajes: Bash (terminal de comandos)](90_terminal_de_comandos_bash/.ipynb)
+1. [Otros lenguajes: Bash (terminal de comandos)](90_terminal_de_comandos_bash/bash.ipynb)
