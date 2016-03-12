@@ -3,17 +3,15 @@ Hemos desarrollado un conjunto de Jupyter Notebooks, en python 3,
 para libre utilización tanto de profesores como alumnos. Es nuestro anhelo
 que estos notebooks puedan ser integrados como parte de laboratorios, o utilizados
 como parte de la formación de los estudiantes.
+
 En caso de encontrar errores, dependiendo de su grado de conocimiento:
 * Corrija el error y solicite un pull request.
 * Realice un issue indicando el error encontrado.
-* Envie un [mailto:sebastian.flores@usm.cl](correo) avisandonos del error.
+* Envíe un [correo](mailto:sebastian.flores@usm.cl) avisandonos del error.
 
 ## Consideraciones de instalación y utilización ##
-* [Instalacion](https://github.com/usantamaria/ipynb_para_docencia/wiki/Instalacion)
-* [Utilizacion](https://github.com/usantamaria/ipynb_para_docencia/wiki/Utilizacion)
-* Para descargar los notebooks, puedes:
-  * Descargar el zip, descomprimirlo y abrir los archivos con jupyter notebooks.
-  * Clonar el repositorio utilizando git
+* [Instalación](https://github.com/usantamaria/ipynb_para_docencia/wiki/Instalacion)
+* [Utilización](https://github.com/usantamaria/ipynb_para_docencia/wiki/Utilizacion)
 
 ## Notebooks Disponibles ##
 1. [Python básico 1: lenguaje y tipos básicos.](01_python_tipos_basico/python_basico.ipynb)
