@@ -9,7 +9,7 @@ Antes de d
 
 Notebooks Disponibles:
 
-1. [Python básico 1: lenguaje y tipos básicos.]()
+1. [Python básico 1: lenguaje y tipos básicos.](01_python_tipos_basico/python_basico.ipynb)
 1. [Python basico 2: strings]()
 1. [Python basico 3: estructuras de control]()
 1. [Python basico 4: algoritmos y funciones]()
