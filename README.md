@@ -14,7 +14,7 @@ En caso de encontrar errores, dependiendo de su grado de conocimiento:
 * [Utilización](https://github.com/usantamaria/ipynb_para_docencia/wiki/Utilizacion)
 
 ## Notebooks Disponibles ##
-1. [Python básico 1: lenguaje y tipos básicos.](01_python_tipos_basico/python_basico.ipynb)
+1. [Python básico 1: lenguaje y tipos básicos.](01_python_tipos_basico/tipos_basicos.ipynb)
 1. [Python basico 2: strings](02_python_strings/strings.ipynb)
 1. [Python basico 3: estructuras de control](03_python_estructuras_de_control/estructuras_de_control.ipynb)
 1. [Python basico 4: algoritmos y funciones](04_python_algoritmos_y_funciones/algoritmos_y_funciones.ipynb)
