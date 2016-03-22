@@ -1,0 +1,18 @@
+diametro;altura;volumen;tipo_de_arbol
+11.2;75;19.9;Cherrie Tree
+11.3;79;24.2;Cherry Tree
+11.4;76;21.0;Cherry Tree
+11.4;76;21.4;Apple Tree
+13.7;71;25.7;Cherry Tree
+13.8;64;24.9;Cherry Tree
+14.0;78;34.5;Cherrie Tree
+14.2;80;31.7;Cherry Tree
+;74;36.3;Apple Tree
+16.0;72;38.3;Cherry Tree
+16.3;77;42.6;Cherry Tree
+17.3;81;55.4;Apple Tree
+17.5;;55.7;Cherry Tree
+17.9;80;58.3;Cherry Tree
+18.0;80;51.5;Cherry Tree
+18.0;;51.0;
+20.6;;;Cherry Tree
