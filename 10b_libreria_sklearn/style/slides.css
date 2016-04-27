@@ -1,0 +1,36 @@
+<style>
+
+.reveal {
+  overflow: visible;
+  overflow-y: visible;  
+}
+
+div.text_cell_render {
+  overflow-y: hidden;
+}
+
+/*********************************************
+ * CHANGE CURSIVE FOR RED
+ *********************************************/
+em {font-style: normal !important;
+    color: #800000;}
+span.good {color: #008000;}
+span.warning {color: #808000;}
+span.bad {color: #800000;}
+
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+.reveal h1 {color: #000000; text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);}
+.reveal h2 {color: #222222; text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);}
+.reveal h3 {color: #444444; text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);}
+.reveal h4 {color: #666666; text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);}
+.reveal h5 {color: #888888; text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);}
+.reveal h6 {color: #AAAAAA; text-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);}
+
+/*********************************************
+ * IMAGES
+ *********************************************/
+.reveal section img { margin-left:auto; margin-right:auto;}
+
+</style>
