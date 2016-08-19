@@ -1,0 +1,146 @@
+[33mcommit c6c8e0bf48bd7b30751bb7c154d4c0d490cc9687[m
+Author: Bunout <pablobunout@gmail.com>
+Date:   Fri Apr 8 11:24:52 2016 -0300
+
+    avance tutorial git
+
+[33mcommit d9b1df042a2a9d5dafdb3967e6b27d0ba520adbc[m
+Author: Sebastian Flores <sebastiandres@gmail.com>
+Date:   Tue Mar 29 23:42:58 2016 -0300
+
+    Presentacion finalizada
+
+[33mcommit ec7ba7830fcf47afdeb1b5707727f424654cd248[m
+Author: Sebastian Flores <sebastiandres@gmail.com>
+Date:   Tue Mar 22 17:04:05 2016 -0300
+
+    pandas library stub
+
+[33mcommit 738aefd6f21191a1686439bb35483d067aa9229c[m
+Author: Sebastian Flores <sebastiandres@gmail.com>
+Date:   Tue Mar 15 14:07:45 2016 -0300
+
+    fixed broken link
+
+[33mcommit 668bba7cfc96e9269b98e0270cfb5ad2929028e1[m
+Author: Bunout <pablobunout@gmail.com>
+Date:   Mon Mar 14 11:07:40 2016 -0300
+
+    modificaciones pequeñas strings y bash
+
+[33mcommit dfbb26765edf092e0f7de81193646418fe46e7c5[m
+Author: Sebastian Flores <sebastiandres@gmail.com>
+Date:   Fri Mar 11 23:53:57 2016 -0300
+
+    fixed readme errors
+
+[33mcommit 6666cc28577433be25ef42dd73216244ed844c43[m
+Author: Sebastian Flores <sebastiandres@gmail.com>
+Date:   Fri Mar 11 23:24:51 2016 -0300
+
+    Some missing ipynb
+
+[33mcommit 2570079d58a316c4cced3986fe0d6c7d13ce4ebb[m
+Author: Sebastian Flores <sebastiandres@gmail.com>
+Date:   Fri Mar 11 23:22:20 2016 -0300
+
+    Incluyendo todos los links
+
+[33mcommit 5713d3571735a3cf311dedf571866dda0c1db707[m
+Author: Sebastian Flores <sebastiandres@gmail.com>
+Date:   Fri Mar 11 23:13:29 2016 -0300
+
+    Moviendo mas archivos
+
+[33mcommit 78ba544845438bbe5281dfa189ce9fd2c56def70[m
+Author: Sebastian Flores <sebastiandres@gmail.com>
+Date:   Fri Mar 11 23:06:44 2016 -0300
+
+    links
+
+[33mcommit 9a89db65482e7fb42e30fc2258c7249094b6a26c[m
+Author: Sebastian Flores <sebastiandres@gmail.com>
+Date:   Fri Mar 11 23:05:18 2016 -0300
+
+    Cambiando el readme y algunos archivos simples
+
+[33mcommit 864786bb3e24aecbbfbcc8ab50402ee0b0785e39[m
+Author: Sebastian Flores <sebastiandres@gmail.com>
+Date:   Fri Mar 11 22:57:50 2016 -0300
+
+    Moving folders around
+
+[33mcommit aedbb1c5b5de727e02d798caf348008aa8266ac7[m
+Merge: 25e6042 c00eee7
+Author: cdcooper84 <christophercooperv@gmail.com>
+Date:   Wed Mar 9 16:21:09 2016 -0300
+
+    Merge pull request #1 from usantamaria/string_dev
+    
+    Agregue notebooks de bash, string y tutorial intro jupyter
+
+[33mcommit c00eee783ee1cb4e244742e9f28f702b75774997[m
+Author: Bunout <pablobunout@gmail.com>
+Date:   Wed Mar 9 16:10:42 2016 -0300
+
+    Agregue notebooks de bash, string y tutorial intro jupyter
+
+[33mcommit 25e6042728867dcaff24bea33211c55dc6557876[m
+Author: Sebastian Flores <sebastiandres@users.noreply.github.com>
+Date:   Mon Dec 14 22:19:38 2015 -0300
+
+    Update README.md
+
+[33mcommit 45fd4d76d17cafcdb4677d4ccbb055d9b8459725[m
+Author: Sebastian Flores <sebastiandres@users.noreply.github.com>
+Date:   Mon Dec 14 22:19:26 2015 -0300
+
+    Update README.md
+
+[33mcommit 4b64c5dd8015ab39c402af621be931ec48856486[m
+Author: Sebastian Flores <sebastiandres@users.noreply.github.com>
+Date:   Mon Dec 14 22:16:08 2015 -0300
+
+    Update README.md
+
+[33mcommit c42b978ddf533e21d41bc26f4b13dfb4aa34ac0e[m
+Author: Sebastian Flores <sebastiandres@users.noreply.github.com>
+Date:   Mon Dec 14 22:05:12 2015 -0300
+
+    Update README.md
+
+[33mcommit e272bad30620b2c6f6ea95be177221eb53b56f93[m
+Author: Sebastian Flores <sebastiandres@users.noreply.github.com>
+Date:   Mon Dec 14 22:04:30 2015 -0300
+
+    Update README.md
+
+[33mcommit 2e01e6a90b117950aaa719c4414199d04f5e67a1[m
+Author: Sebastian Flores <sebastiandres@users.noreply.github.com>
+Date:   Mon Dec 14 22:04:10 2015 -0300
+
+    Update README.md
+
+[33mcommit 0c419c01de2c743d6bb721a4056ae7038d3be523[m
+Author: Sebastian Flores <sebastiandres@gmail.com>
+Date:   Mon Dec 14 22:00:51 2015 -0300
+
+    new notebooks
+
+[33mcommit a70818fc625de3a39ec67c682d48d5d75e68a5be[m
+Author: Sebastian Flores <sebastiandres@gmail.com>
+Date:   Mon Dec 14 21:54:10 2015 -0300
+
+    Python basico
+
+[33mcommit bfda93f705a8975aad7261dfabce694931d95e36[m
+Author: Sebastian Flores <sebastiandres@gmail.com>
+Date:   Mon Dec 14 21:51:40 2015 -0300
+
+    ejemplo base
+
+[33mcommit 980a98696d2dc88c90ea693c6e0b7b7aa8178055[m
+Author: Sebastian Flores <sebastiandres@users.noreply.github.com>
+Date:   Mon Dec 14 21:45:16 2015 -0300
+
+    Initial commit
